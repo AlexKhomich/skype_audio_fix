@@ -1,0 +1,6 @@
+[package]
+name = "skype_audio_fix"
+version = "0.1.0"
+authors = ["Alex Khomich <alexkh90@gmail.com>"]
+
+[dependencies]
